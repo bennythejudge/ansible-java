@@ -1,5 +1,7 @@
 # ansible-java
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ansible-java.svg)](https://www.guardrails.io)
+
 An Ansible role for installing Java.
 
 ## Role Variables
